@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ 
+  <title>kiran12</title>
+<base href="D:\html files\images\"/>
+ </head>
+ <body>
+<form>
+  <h3>demo on textaresa</h3>
+<lable>facebook</lable>
+<textarea id="fb" name="fb"></textarea>
+<lable>address</lable><br>
+<textarea id="ad" name="ad" rows=7 cols=39></textarea><br><br><br>
+<select id="colors"name"colos">
+<option value="r">red
+<option value="r">black
+<option value="r">green
+<option value="r">yellow
+<option value="r">pink
+</select>
+<label>Course</label>
+
+		<input type="text" list="course" placeholder="type search text here"/>
+<datalist id="course">
+			<option value="c">C</option>
+			<option value="cpp">C++</option>
+			<option value="cj">Corejava</option>
+			<option value="aj">Advjava</option>
+			<option value="spring">Spring</option>
+			<option value="fsj">Full Stack Java</option>
+			<option value="asp">ASP.net</option>
+			<option value="c#">C#.net</option>
+			<option value="fsdn">Full Stack .Net</option>
+			<option value="python">Python</option>
+			<option value="dj">Django</option>
+			<option value="flask">Flask</option>
+			<option value="php">PHP</option>
+			<option value="html-js" selected>HTML-JavaScript</option>
+			<option value="angular">Angular</option>
+			<option value="reacj">ReactJS</option>
+			<option value="node">NodeJS</option>
+			<option value="xml-ws">XML-WebServices</option>
+			<option value="aws">AWS</option>
+			<option value="oracle">Oracle</option>
+			<option value="mysql">My-SQL</option>
+			<option value="sql-servler">SQL-Server</option>
+			<option value="mongo">MongoDB</option>
+			<option value="unix">Unix</option>
+		</datalist>
+<lable>datalist</lable>
+<input type="text" list="fruits" placeholder="type search text here"/>
+		<datalist id="fruits">
+			<option>Red Apple</option>
+			<option>Green Apple</option>
+			<option>White Apple</option>
+			<option value="Yellow Mango"/>
+			<option value="Green Mango"/>
+			<option value="black grape">Black Grape</option>
+			<option value="green grape">Green Grape</option>
+		</datalist>
+<h4>ICC Mens T20 World Cup 2022 - Points Table</h4>
+
+	 <details>
+	<summary>Super 12 Group 1</summary>
+<pre>
+		New Zealand 	3	2	0	0	1	5	+3.850	 
+		England		3	1	1	0	1	3	+0.239	
+		Ireland 	3	1	1	0	1	3	-1.170	
+		Australia 	3	1	1	0	1	3	-1.555	
+		Afghanistan 	3	0	1	0	2	2	-0.620	
+		Sri Lanka	3	1	2	0	0	2	-0.890	
+		</pre>
+	 </details>
+<h2>hdsghi<mark>uygiudshg</mark>fiushgkjsshg;sddoiugtwyidsalkjdsgiuewjdsjjh</h2>
+	 <img src="a.jpg"/>
+<input type="submit" >
+</form>
+ </body>
+</html>

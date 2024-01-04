@@ -1,0 +1,16 @@
+<!-- displaay tag
+-->
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>display tag</title>
+ </head>
+ <body>
+ <h2 style="display:inline;">nateshd</h2>
+ <h3  style="display:inline;">fjdshfidsfh</h3><br>
+  <lable  style="display:block;">naresh</lable>
+  <span  style="display:nono;">swamy</span>
+  <h1  style="display:nono;">naresh</h1>
+ </body>
+</html>

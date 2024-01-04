@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ 
+  <title>feildset</title>
+   <link rel="icon" href="D:\html files\images\google.png">
+ </head>
+ <body>
+ <fieldset style="width:300px;border-color:#ff0099;text-align:center;border-radius:10px;background-color:pink;font-size:30;">
+ <h2>naresh</h2>
+ <h1>swamy</h1>
+ <h3>kiran</h3>
+ </fieldset><br><hr>
+ <fieldset style="width:900px;text-align:center;border:20px solid red;border-radius:10px;">
+ <legend style="color:green;font-size:30;"><font size=25>my photos</font></legend>
+ <img src="D:\html files\images\google.png">
+  <img src="D:\html files\images\google.png">
+   <img src="D:\html files\images\google.png">
+    <img src="D:\html files\images\google.png">
+	 <img src="D:\html files\images\google.png">
+	  <img src="D:\html files\images\google.png">
+ </fieldset>
+ 
+
+ </body>
+</html>

@@ -1,0 +1,33 @@
+
+<!-- examples on  JS Arrays -->
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <title>JS</title>
+ </head>
+ <body>
+	<h3>finding max & min elements of array</h3>
+  	<script>
+		let a=[];
+		let n = +prompt("enter no.of values");
+		for(let i=0; i<n; i++)
+			a[i]=+prompt(`enter a[${i}] value`);
+
+		let max=a[0];	//assume
+		let min=a[0];
+		for(let i=1; i<n; i++)
+		{
+			if(a[i]>max)
+				max=a[i];
+
+			if(a[i]<min)
+				min=a[i];
+		}
+		document.write(`Array : ${a}<br>`);
+		document.write(`Max Ele		:${max}<br>`);
+		document.write(`Min Ele		:${min}<br>`);
+	</script>			 
+ 
+ </body>
+</html>

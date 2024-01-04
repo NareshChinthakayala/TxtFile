@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+ </head>
+ <body>
+  <script>
+window.alert("hello world");
+window.alert(23+45);
+window.alert(`html`/`java`)
+let a=window.prompt("enter name");
+let v=prompt("age");
+let s=parseInt(x)+parseInt(y);
+			document.write("Sum is "+s);
+let n=window.confirm("do u want to confirm");
+document.write(n);
+
+</script>
+ </body>
+</html>

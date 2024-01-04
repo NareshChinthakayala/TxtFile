@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <
+  <title>ex61</title>
+ </head>
+ <body>
+<h3>demo on adieo</h3>
+<audio controls>
+<source src="E:\Music\Hello\n.mp3"/>
+</audio><br>
+<audio controls src="E:\Music\Hello\hello.mp3"muted autoplay loop>audio</audio>
+  <h3>demo on video</h3>
+<br>
+<video controls src="E:\Videos\p.mp4"width=200 poster="D:\html files\images\d.jpg">video</video>
+ </body>
+</html>

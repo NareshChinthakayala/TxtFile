@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+
+  <title>Hyper liks</title>
+    <link rel="icon" href="D:\html files\images\google.png">
+ </head>
+ </head>
+ <body>
+  <a href="lack.html">html file</a><br>
+  <a href="D:\My certificates">
+  <img src="D:\My Certificates\Aadhar card.jpg" title="Aadhar card" width="209" height="200" text="this is naresh Aadhar card">this is naresh aadhar</a><br>
+   <a href="D:\java Notes HK">pdf file</a><br>
+    <a href="E:\Music\Hello">song</a><br>
+	 <a href="E:\Videos">video song</a><br>
+	  <a href="C:\jdk-19">java software</a><br>
+	  	  <a href="file:///D:/java%20Notes%20HK/VOLUME%201A.pdf">java notes</a><br>
+ </body
+</html>

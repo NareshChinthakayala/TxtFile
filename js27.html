@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  
+  <title>Document</title>
+ </head>
+ <body>
+  <h3>demo on html and loops</h3>
+  <script>
+for(i=1;i<=5;i++){
+document.write("hell<br>");
+}
+</script>
+<lable>Date of Birth</lable>
+
+<select id="date" name="date">
+<script>
+for(d=1;d<=31;d++){
+document.write(`<option value=`+d+`>`+d+`</option>`)
+}
+</script>
+</select>
+
+<select id="month" name="month">
+<script>
+for(m=1;m<=12;m++){
+document.write(`<option value=`+m+`>`+m+`</option>`)
+}
+</script>
+</select>
+<select id="year" name="year">
+<script>
+for(y=1990;y<=2022;y++){
+document.write(`<option value=`+y+`>`+y+`</option>`)
+}
+</script>
+</select>
+
+ </body>
+</html>

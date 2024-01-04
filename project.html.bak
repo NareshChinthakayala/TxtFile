@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ 
+  <title>Live project</title>
+  <link rel="icon" href="D:\html files\images\google.png">
+  <style>
+			#para{
+				text-align:center;
+				font-size:32px;
+			}
+			#grid-div{
+				width:80%;
+				display:grid;
+				
+grid-template-columns: auto auto auto auto auto ;
+				grid-gap:30px;
+				text-align:center;
+				margin:auto;		/* center positioning */
+			}
+			#grid-div  img{				
+				width:100%;
+				height:160px;
+			}
+			 div{
+				box-shadow:2px 2px 30px #ff0000;
+			}
+		</style>
+ </head>
+ <body>
+ <div>
+ <div id="para">Telugu Movies<strong> </div><br>
+ <div id="grid-div">
+ <div><img src="D:\html files\images\a.jpg"><br>
+ <a href="https://ww3.5movierulz.im/ram-setu-2022-dvdscr-telugu-full-movie-watch-online-free/">movie link</a></div>
+ <div>
+  <img src="D:\html files\images\b.jpg"><br>
+  <a href="">movie link</a>
+  </div>
+    <div>
+	<img src="D:\html files\images\c.jpg"><br>
+	 <a href="https://ww3.5movierulz.im/10th-class-diaries-2022-hdrip-tamil-original-version-full-movie-watch-online-free/">movie link</a>
+	</div>
+    <div>
+	<img src="D:\html files\images\d.jpg"><br>
+	 <a href="https://ww3.5movierulz.im/swathimuthyam-2022-hdrip-telugu-full-movie-watch-online-free/">movie link</a>
+	</div>
+	 <div>
+	 <img src="D:\html files\images\e.jpg"><br>
+	  <a href="https://ww3.5movierulz.im/krishna-vrinda-vihari-2022-hdrip-telugu-full-movie-watch-online-free/">movie link</a>
+	 </div>
+	 <div>  <img src="D:\html files\images\f.jpg"><br>
+	  <a href="https://ww3.5movierulz.im/sardar-2022-dvdscr-telugu-full-movie-watch-online-free/">movie link</a>
+	  </div>
+	    <div><img src="D:\html files\images\g.jpg"><br>
+		 <a href="https://ww3.5movierulz.im/prince-2022-dvdscr-telugu-full-movie-watch-online-free/">movie link</a>
+		 </div>
+	     <div><img src="D:\html files\images\h.jpg"><br>
+		  <a href="https://ww3.5movierulz.im/kavisamrat-2022-hdrip-telugu-full-movie-watch-online-free/">movie link</a>
+		  </div>
+		  <div><img src="D:\html files\images\i.jpg"><br>
+		   <a href="https://ww3.5movierulz.im/ginna-2022-dvdscr-telugu-full-movie-watch-online-free/">movie link</a>
+		   </div>
+		  <div><img src="D:\html files\images\j.jpg"><br>
+		   <a href="https://ww3.5movierulz.im/unstoppable-2022-hdrip-telugu-season-2-episode-02-watch-online-free/">movie link</a>
+		   </div>
+ </div>
+ </div>
+  
+ </body>
+</html>

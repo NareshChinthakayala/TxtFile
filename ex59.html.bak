@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ 
+  <title>ex59</title>
+ </head>
+ <body>
+<h3>demo on page margin<h3/>
+
+  <iframe src="form1.html" width=400 height=400><iframe/>
+<iframe src="form1.html" width=400 height=400><iframe/>
+ </body>
+ </body>
+</html>

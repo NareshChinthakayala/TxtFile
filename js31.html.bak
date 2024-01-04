@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+ </head>
+ <body>
+  <script>
+const a=[2,4,656,5];
+for(let index in a)
+{
+document.write(`${a[index]}`);
+a[index]=2;
+
+}
+</script>
+ </body>
+</html>

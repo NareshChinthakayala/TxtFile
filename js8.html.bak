@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  
+  <title>Document</title>
+ </head>
+ <body>
+  <script>
+let st1=new String(`Naresh`);
+let n1=new Number(123);
+let b1=new Boolean(true);
+document.write("st1 :"+st1+"<br>");
+document.write("n1 :"+n1+"<br>");
+document.write("b1 :"+b1+"<br>");
+var d1=new Date();
+document.write("d1 :"+d1+"<br>");
+var a1=[12,32];
+document.write("array :"+a1+"<br>"); 
+</script>
+ </body>
+</html>

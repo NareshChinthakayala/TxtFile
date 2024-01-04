@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+
+
+ </head>
+ <body>
+ <h3>finding sum of two numbers </h3>
+		<label>First number</label> <bR>
+		<input type="text" id="tb1"/> <bR>
+		<label>Second number</label> <bR>
+		<input type="text" id="tb2"/> <br>
+		<button onclick="addition()">Add</button>
+<script>	 
+			function addition()
+			{
+				let x, y, res;		//local
+				x = parseInt(tb1.value);
+				y = parseInt(tb2.value);
+				res=x+y;
+				document.write("Sum is "+res);
+			}			
+ 		</script>
+ </body>
+</html>

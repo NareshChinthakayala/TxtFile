@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>order list with css</title>
+   <link rel="icon" href="D:\html files\images\google.png">
+   <style>
+   ol{
+   list-style-type:lower-alpha;
+  ::marker{
+  color:#ccff33;
+  }
+color:#ff0099;}
+li{
+color:#009900;
+
+   </style>
+ </head>
+ <body>
+ <ol style="font-size:30px;">mobiles
+ <li>mi</li>
+ <li>oppo</li>
+ <li>vivo</li>
+ <li>realme</li>
+ <li>moto</li>
+<ol style="list-style-type:disk;">names
+<li>naresh</li>
+<li>swamy</li>
+<li>kiran</li>
+</ol>
+ </ol>
+  
+ </body>
+</html>

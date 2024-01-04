@@ -1,0 +1,54 @@
+class BankAccount
+{
+	String bname;
+	String brname;
+	int[] ifsc;
+	long ano;
+	String ahname;
+	double bal;
+}  
+class Address
+{
+	BankAccount b1=new BankAccount();
+	int hno;
+	String colony;
+	String mandal;
+	String dist;
+	String state;
+	int pin;
+
+
+}
+class Test23
+{
+	public static void main(String[] args){
+		Address a1=new Address();
+a1.b1.bname="sbi";
+a1.b1.brname="mulugu";
+a1.b1.ifsc=1453;
+a1.b1.ano=123456789089L;
+a1.b1.ahname="chinthakayala Naresh";
+a1.b1.bal=50937;
+a1.hno=1-46;
+a1.colony="bhavandapur";
+a1.mandal="markook";
+a1.dist="siddiper";
+a1.state="telangana";
+a1.pin=502279;
+System.out.println("Bank object valeu");
+System.out.println("Bank Name \s:"+a1.b1.bname);
+System.out.println("Branch Name \s:"+a1.b1.brname);
+System.out.println("Ifsc no \s:"+a1.b1.ifsc);
+//System.out.println("IFSC  no\s :"+a1.b1.ifsc[1]);
+System.out.println("Account number\s:"+a1.b1.ano);
+System.out.println("Account Holder Name\s :"+a1.b1.ahname);
+System.out.println("Account Balance\s :"+a1.b1.bal);
+System.out.println("House-Number :"+a1.hno);
+System.out.println("Colony :"+a1.colony);
+System.out.println("mandal :"+a1.mandal);
+System.out.println("District :"+a1.dist);
+System.out.println("State :"+a1.state);
+System.out.println("Pin Number :"+a1.pin);
+System.out.println("details end");
+}
+}

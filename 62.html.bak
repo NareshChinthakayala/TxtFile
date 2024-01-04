@@ -1,0 +1,27 @@
+
+<!-- example on  meta tag  -->		 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	  <title>Ex62</title>
+	  <link rel="icon" href="logo.png"/>		
+		<meta name="Generator" content="EditPlus®"/>
+		<meta name="Author" content="SK"/>
+
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<meta name="Keywords" content="i20, i10, creta, asta, sports, hyundia car, santro, venue, verna"/>
+		<meta name="Description" content="Specifications ; Engine. 1197 cc, 4 Cylinders Inline, 4 Valves/Cylinder, DOHC ; Engine Type. 1.2 l Kappa ; Fuel Type. Petrol ; Max Power (bhp@rpm). 82 bhp @ 6000"/> 
+
+		<!-- auto refreshing page for every 10sec once -->
+		<meta http-equiv="refresh" content="2"/>
+  </head>		 
+  <body>	
+		<h3>demo on meta </h3>
+		<h3>demo on auto reloading the page</h3>
+		<script>
+			document.write( Math.random() );
+		</script>
+  </body>
+</html>				

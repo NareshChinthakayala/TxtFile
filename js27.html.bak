@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  
+  <title>Document</title>
+ </head>
+ <body>
+  <h3>demo on html and loops</h3>
+  <script>
+for(i=1;i<=5;i++){
+document.write("hell<br>");
+}
+</script>
+<lable>Date of Birth</lable>
+
+<select>
+<script>
+for(d=1;d<=31;d++){
+document.write(`<option value=`+d+`>`+d+`</option>`)
+}
+</script>
+</select>
+
+
+ </body>
+</html>

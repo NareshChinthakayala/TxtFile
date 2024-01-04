@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+
+  <title>table project</title>
+  <link rel="icon" href="D:\html files\images\google.png">
+  <style>
+  table{
+
+ width:50%;
+
+    border-collapse:collapse;
+				font-size:18px;
+				
+				
+ }
+ caption{
+              font-size:24px;
+				color:#ff0000;
+				text-align:left;
+ }
+ tr:first-child{			
+				background:#0000ff;
+				color:white;
+				font-size:20px;
+				}
+				
+				tr:hover{
+				background:#cccfb1;
+				
+				}
+ #id{
+ color:#330099;
+ text-align:left;
+
+}
+
+div{
+background:#111199;
+width:70%;
+
+margin:auto auto;
+border-radius:30px;
+}
+
+  </style>
+   
+ </head>
+ <body>
+ <div>
+ <table align="center"cellspacing=”5” cellpadding=8  >
+<caption><h3><U> ICC Mens T20 World Cup 2022 - Points Table      </U></h3></caption>
+<tr>
+<th>Super 12 Group 1 </th><th>Mat</th>	<th>Won</th>	<th>Lost </th>	<th>Tied</th>	<th>NR</th>	<th>Pts</th><th>	NRR</th>
+</tr>
+<tr>
+
+<th id="id"><img src="D:\html files\images\n.png" />Newzeland</th><td>2<td>1<td>	0<td>	0<td>	1<th>	3<td>	+4.450	
+</tr>
+<tr>
+<th  id="id"><img src="D:\html files\images\e.png"/>England</th>	<td>3<td>	1<td>	1<td>	0<td>	1<th>	3<td>	+0.239
+</tr>
+<tr>
+<th  id="id"><img src="D:\html files\images\i.png"/>Ireland</th>	<td>3<td>	1<td>	1<td>	0<td>	1<th>	3<td>	-1.170
+</tr>
+<tr>
+<th  id="id"><img src="D:\html files\images\a.png"/>Australia</th><td>	3<td>	1<td>	1<td>	0<td>	1<th>	3<td>	-1.555
+</tr>
+<tr>
+<th  id="id"><img src="D:\html files\images\e.png"/>Sri Lanka</th><td>	2<td>	1<td>	1<td>	0<td>	0<th>	2<td>	+0.450
+</tr>
+<tr>
+<th  id="id"><img src="D:\html files\images\af.png"/>Afghanistan</th><td>	3<td>	0<td>	1<td>	0<td>	2<th>	2<td>	-0.620
+</tr>
+</table>
+<table align="center" cellpadding=8px >
+<caption><h3><u>ICC Mens T20 World Cup 2022 - Points Table</u></h3></caption>
+<tr>
+<th>Super 12 Group 2	<th>Mat<th>	Won<th>	Lost<th>	Tied	<th>NR<th>	Pts<th>	NRR
+</tr>
+<tr>
+<th  id="id"><img src="D:\html files\images\india.png"/>India<td>2<td>	2	<td>0<td>	0<td>0<th>		4<td>	+1.425
+</tr><tr>
+<th  id="id"><img src="D:\html files\images\south.png"/>South Africa<td>	2	<td>1	<td>0<td>	0<td>	1<th>3<td>	+5.200
+</tr>
+<tr>
+<th  id="id"><img src="D:\html files\images\z.png"/>Zimbabwe<td>2	<td>1<td>	0<td>	0<td>	1<th>	3<td>	+0.050
+</tr>
+<tr>
+<th  id="id"><img src="D:\html files\images\b.png"/>Bangladesh	<td>2	<td>1<td>	1	<td>0	<td>0<th>	2<td>	-2.375
+</tr>
+<tr>
+<th  id="id"><img src="D:\html files\images\p.png"/>Pakistan<td>	2<td>	0<td>	2	<td>	0<td>	0<th>0	<td>-0.050
+</tr>
+<tr>
+<th  id="id"><img src="D:\html files\images\nether.png"/>Netherlands	<td>2	<td>0	<td>2	<td>0<td>	0<th>	0<td>	-1.625
+</tr>
+
+ </table>
+  </div>
+ </body>
+</html>

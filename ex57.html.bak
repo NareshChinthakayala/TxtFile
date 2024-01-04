@@ -1,0 +1,29 @@
+<!-- example on  output tag  -->		 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	  <title>Ex57</title>
+	  <link rel="icon" href="logo.png"/>		
+  </head>		 
+  <body>	
+		<h3>demo on displaying results dynamically</h3>
+		<output>hello</output>
+		<bR>
+		<!--	<button onclick="document.write('button clicked')">click here</button>
+			OR	-->
+
+		<br>
+		<input type="text" id="tb1"/> <br>
+		<input type="text" id="tb2"/> <br>
+		<button onclick="result.value=tb1.value*tb2.value">Product</button> <br>
+		<output id="result"></output>
+<iframe src="ex57.html" width=400 height=400><iframe/>
+<br>
+<br>
+		<input type="text" id="tb3"/> <br>
+		<input type="text" id="tb4"/> <br>
+		<button onclick="result.value=tb3.value*tb4.value">Product</button> <br>
+		<output id="result"></output>
+
+  </body>
+</html>

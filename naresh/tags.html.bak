@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>tagst</title>
+<link rel="icon" href="D:\html files\images\google.png"/>
+ </head>
+ <body>
+  <p>naresh is good boy and </p><span>*</span>
+<p>hi is pretty good</p>
+<lable >naninnijdfkdfff</lable>
+<h1>naresh</h1>
+<h6>naresh</h6>
+<h5><span>naresh</span></h5>
+<h4>naresh</h4>
+<h2>naresh</h2><hr>
+<u>naresh</u><br><hr>
+<i>natehs</i><br>
+<span>x<sup>2</sup>+2</span>
+<span>naresh</span>
+<div>
+<img src="D:\html files\images\google.png" width="200";border="4">
+</div>
+ </body>
+</html>

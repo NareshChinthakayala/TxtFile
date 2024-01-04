@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ 
+
+  <title>border</title>
+<link rel="icon" href="D:\html files\images\google.png">
+</head>
+ <body>
+ <h1 style="border-top:3px solid red;border-left:5px solid #ff9933;border-bottom:5px solid yellow;border-right:3px solid green;background-color:#66ff00">nadref</h1>
+ <h1 style="border-radius:50x">tfhjdhgjkshgf</h1>
+  <img src="D:\html files\images\google.png" width="50" hieght="50";border-radius:50px>
+  
+ </body>
+</html>

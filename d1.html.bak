@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+ 
+  <title>Document</title>
+ </head>
+ <body>
+  <h3>demo on document method</h3>
+<h1 id="head1">hello world</h3>
+<input type="checkbox" id="cb1" name="cb"/><lable>red</lable> 
+<input type="checkbox" id="cb2" name="cb"/><lable>green</lable> 
+<input type="checkbox" id="cb2" name="cb"/><lable>yellow</lable> 
+<label>Firstname</label> <br>
+		<label>Lastname</label> <br>	
+</body>
+<hr>
+<script>
+
+const h = document.getElementById("head1");
+			document.write(`${h}<br>`);
+const c = document.getElementsByName("cb");
+			document.write(`${c}<br>`);
+const l = document.getElementsByTagName("label");
+			document.write(`${l}<br>`);
+</script>
+
+
+
+</html>

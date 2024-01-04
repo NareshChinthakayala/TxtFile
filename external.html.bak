@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+
+  <title>external css</title>
+   <link rel="icon" href="D:\html files\images\google.png">
+   <link rel="stylesheet" href="naresh.css">
+ </head>
+ <body>
+  <h1 border=2>naresh</h1>
+  <p>fjdshoifiuyiuyiuyuhgkjfdhgjudfhfighdkjfghkjfdfhgkjdgkjdfhgkjhdfkjgkjfdfhgkj</p>
+ </body>
+</html>

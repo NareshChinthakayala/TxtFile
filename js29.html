@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+
+  <title>Document</title>
+ </head>
+ <body>
+<script>
+let a=[[12,4,5],[44,5,5],[86,76,54]];
+
+document.write(`${a}<br>`);
+document.write(`${a[0]}<br>`);
+document.write(`${a[1]}<br>`);
+document.write(`${a[2][0]}<br>`);
+document.write(`${a.length}`);
+document.write(`${a[o].length}`);
+document.write(`${a[2].length}`);
+document.write(`${a[0].length}<br>`); 
+
+for(let i=0; i<a.length; i++)
+		{
+			for(let j=0; j<a[i].length; j++) {
+				document.write(`${a[i][j]} &nbsp; `);
+			}
+			document.write(`<br>`);
+		}
+</script>  
+ </body>
+</html>

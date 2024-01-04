@@ -1,0 +1,37 @@
+
+<!-- examples on  JS Arrays -->
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <title>JS</title>
+ </head>
+ <body>
+	<h3>demo on arrays</h3>
+  	<script>
+		//1st App literal
+		let a = [];	//array declaration
+		document.write(`Size => ${a.length}<br>arry=>${a}`);
+		//document.write(`Array => ${a}<br>`);
+		a[0]=10;		//assigning data
+		a[1]=20;
+		a[2]=30;
+		document.write(`Size => ${a.length}<br>`);
+		document.write(`Array => ${a}<br>`);		
+
+		let runs=[4,3,10,9,12,8,7,8];	//array init
+		let total=0;
+		//document.write(`${runs}<bR>`);
+		for(let i=0; i<runs.length; i++)
+		{
+			document.write(`Over${i+1}  :  ${runs[i]}<br>`);
+			total=total+runs[i];  
+		}
+		document.write(`Total runs : ${total} <br>`);
+		document.write(`Overs		: ${runs.length}<br>`);
+	    document.write(`RR	:${total/runs.length}<br>`);	
+	</script>			 
+ 
+ </body>
+</html>
+	

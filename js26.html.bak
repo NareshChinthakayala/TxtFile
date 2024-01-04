@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+ </head>
+ <body>
+  
+<script>
+let a = new Array();		//dec
+			a[0]=11;
+			a[1]=22;
+			a[2]=33;
+			document.write(`${a.length}<br>${a}<br>`);
+let b=new Array(100,34.5,"naresh","harsha","kiram");
+document.write(`${b.length}<br>${b}<br>`);
+b.length=2;
+document.write(`${b.length}<br>${b}<br>`);
+b[3]="naresh";
+b[4]=22;
+document.write(`${b.length}<br>${b}<br>`);
+let c=[];
+let n=+prompt("enter number);
+for(i=0;i<n;i++)
+c[i]=prompt(enter value);
+document.write(`array=>${c}`)
+
+
+</script>
+ </body>
+</html>

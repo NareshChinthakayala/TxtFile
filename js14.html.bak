@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  
+  <title>Document</title>
+ </head>
+ <body>
+  <div>
+<h2>simple intrest</h2>
+<lable>principle amount</lable><br>
+<input type="text" id="pamt"/><span>&#8377;</span><br>
+<lable>time<lable><br>
+<input type="text" id="tm"/><span>years(S)</span><br>
+<labe>rate ofinstrest</lable><br>
+<input type="text"id="roi"/><span>%</span><br>
+<button onclick="compute()">cal intrest</button><br>
+<output id="result"></output>
+<script>
+function compute(){
+let p,t,r,si;
+p=pamt.value;
+t=tm.value;
+r=roi.value;
+si=p*t*r/100;
+result.value="amount of instrest"si;
+}
+</script>
+</div>
+ </body>
+</html>

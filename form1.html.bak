@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>form</title>
+ </head>
+ <body>
+<div>
+<form>
+<input type="number" id="n1" name="n1" min="1" max="10"/>
+<br>
+<input type="number" id="n2" name="n2" min="1" max="100" step="20" size="30%"/>
+<input type="hidden" name="hf1" value="naresh"/><br>
+<input type="text"><br>
+<input type="password" maxlength="8"><br>
+<input type="number" id="n2" name="n2" min="1" max="100"/><br>
+<input type="submit"src="D:\html files\images\google.png">
+<input type="reset" value="clear all">
+</form>
+</div>
+  
+ </body>
+</html>

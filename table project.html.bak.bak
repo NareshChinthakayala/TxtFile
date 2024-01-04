@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+
+  <title>table project</title>
+  <link rel="icon" href="D:\html files\images\google.png">
+  <style>
+  table{
+
+ width:60%;
+ border-collapse:collapse;
+				font-size:18px;
+ }
+ caption{
+              font-size:24px;
+				color:#3300cc;
+				text-align:left;
+ }
+  </style>
+   
+ </head>
+ <body>
+ <table align="center">
+<caption><h3><U> ICC Mens T20 World Cup 2022 - Points Table      </U></h3></caption>
+<tr>
+<th>Super 12 Group 1 </th><th>Mat</th>	<th>Won</th>	<th>Lost </th>	<th>Tied</th>	<th>NR</th>	<th>Pts</th><th>	NRR</th>
+</tr>
+<tr>
+<th>New ZealandNew Zealand<td>	2</td><td>1</td><td>0</td><td>0</td><td>1</td><td>3</td><td>+4.450</td>	
+</tr>
+<tr>
+<th><img src="D:\html files\image\e.png">EnglandEngland</th>	<td>3<td>	1<td>	1<td>	0<td>	1<td>	3<td>	+0.239
+</tr>
+<tr>
+<th>IrelandIreland	<td>3<td>	1<td>	1<td>	0<td>	1<td>	3<td>	-1.170
+</tr>
+<tr>
+<th>AustraliaAustralia<td>	3<td>	1<td>	1<td>	0<td>	1<td>	3<td>	-1.555
+</tr>
+<tr>
+<th>Sri LankaSri Lanka<td>	2<td>	1<td>	1<td>	0<td>	0<td>	2<td>	+0.450
+</tr>
+<tr>
+<th>AfghanistanAfghanistan<td>	3<td>	0<td>	1<td>	0<td>	2<td>	2<td>	-0.620
+</tr>
+</table>
+<table align="center" >
+<caption><h3><u>ICC Mens T20 World Cup 2022 - Points Table</u></h3></caption>
+<tr>
+<th>Super 12 Group 2	<th>Mat<th>	Won<th>	Lost<th>	Tied	<th>NR<th>	Pts<th>	NRR
+</tr>
+<tr>
+<th>India<td>2<td>	2	<td>0<td>	0<td>0<td>		4<td>	+1.425
+</tr><tr>
+<th>South AfricaSouth africa<td>	2	<td>1	<td>0<td>	0<td>	1<td>3<td>	+5.200
+</tr>
+<tr>
+<th>ZimbabweZimbabwe	<td>2	<td>1<td>	0<td>	0<td>	1<td>	3<td>	+0.050
+</tr>
+<tr>
+<th>BangladeshBangladesh	<td>2	<td>1<td>	1	<td>0	<td>0<td>	2<td>	-2.375
+</tr>
+<tr>
+<th>PakistanPakistan<td>	2<td>	0<td>	2	<td>	0<td>	0<td>0	<td>-0.050
+</tr>
+<tr>
+<th>NetherlandsNetherlands	<td>2	<td>0	<td>2	<td>0<td>	0<td>	0<td>	-1.625
+</tr>
+
+ </table>
+  
+ </body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>selectots</title>
+   <link rel="icon" href="D:\html files\images\google.png">
+   <style>
+   #nari{
+   color:red;
+   }
+   </style>
+ </head>
+ <body>
+<h1 id="nari">naressh</h1> 
+<span>jdsii</span>
+ </body>
+</html>

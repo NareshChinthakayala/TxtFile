@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+
+  <title>internal style sheet</title>
+  <link rel="icon" href="D:\html files\images\google.png">
+  <style>
+  h1{
+  color:red;background:pink
+  }
+  span{
+  color:green;font:italic;background:yellow
+ }
+  </style>
+ </head>
+ <body>
+  <h1>naresh</h1>
+  <span>naresh chibthgsjjaM</span>
+ </body>
+</html>

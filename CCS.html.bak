@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+
+  <title>Cast cadding style sheets</title>
+    <link rel="icon" href="D:\html files\images\google.png">
+ </head>
+ <body>
+  <h3 style="color:red;background:yellow;">Naresh</h3>
+  <span style="background:pink">he is good boy</span ><br>
+  <span style="color:green"><font size="20">possword</font></span>
+  <span style="color:red">*</span>
+ </body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  
+  <title>order list with css</title>
+   <link rel="icon" href="D:\html files\images\google.png">
+ </head>
+ <body>
+ <ol>mobiles
+ <li>mi</li>
+ <li>oppo</li>
+ <li>vivo</li>
+ <li>realme</li>
+ <li>moto</li>
+ </ol>
+  
+ </body>
+</html>
